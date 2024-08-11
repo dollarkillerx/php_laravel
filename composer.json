@@ -1,0 +1,15 @@
+{
+    "name": "dollarkiller/php_study",
+    "autoload": {
+        "psr-4": {
+            "Dollarkiller\\PhpStudy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dollarkiller",
+            "email": "dollarkiller@dollarkiller.com"
+        }
+    ],
+    "require": {}
+}
